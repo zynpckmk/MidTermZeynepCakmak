@@ -1,2 +1,2 @@
 # MidTermZeynepCakmak
-This repository creates for midterm exam
+This repository created for midterm exam.
